@@ -42,9 +42,9 @@
 ## 🔬 Selected Projects
 | Project | Summary | Tech Stack |
 | :------ | :------ | :--------- |
-| HiScoreHub | Online Leaderboard (In Progress) | C++ · Java · Kafka · mySQL · Cassandra · REST · gRPC · Docker |
-<!-- | Block Volume Management Plugin | Enhanced error handling, logging and timeouts boosting response time by 40 % | C++ |
-| Block Storage CLI | Automated DevOps actions for 500 +  tenants | Go · OCI SDK | -->
+| HiScoreHub | Global Leaderboard (In Progress) | C++ · Java · Kafka · mySQL · Cassandra · REST · gRPC · Docker |
+| Weather App | Fetch the current weather and forecast | ReactJS · OpenWeatherMap |
+| Blog App | Post and Read Blogs | ReactJs · NodeJs · MongoDB|
 
 ## 📫 Connect with Me
 • LinkedIn  →  [https://www.linkedin.com/in/sushanta1307](https://www.linkedin.com/in/sushanta-senapati/)  
