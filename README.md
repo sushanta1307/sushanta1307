@@ -1,16 +1,55 @@
-## Hi there 👋
+<!-- README.md for github.com/sushanta1307 -->
 
-<!--
-**sushanta1307/sushanta1307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>Hi, I'm Sushanta! 👋</h1>
+  <p>Member of Technical Staff · Oracle Cloud Infrastructure</p>
+  <p>Backend Development · Distributed Systems</p>
+</div>
 
-Here are some ideas to get you started:
+## 🚀 Profile Snapshot
+• Software Developer with 2.5+  years of experience delivering scalable storage and observability solutions within Oracle Cloud Infrastructure  
+• Proficient in C++, Java (Spring Boot), Go and Python with solid grounding in system design, multithreading and data structures  
+• Passionate about performance tuning, metrics-driven monitoring and building resilient cloud services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Work Experience
+| Period | Role | Key Highlights |
+| :----: | :-- | :------------- |
+| Jun 2023 → Present | Member of Technical Staff, OCI | • Latency improvements <br> • Metrics and Observability <br> • Plugin Development |
+| May 2022 → Jul 2022 | Software Engineer Intern, OCI | • CLI Tool Building <br> • Error detection and improvements |
+
+## 🛠️ Technical Skills
+| Category | Stack |
+| :------- | :---- |
+| Languages | C++ · Java · Go · Python |
+| Frameworks & Libraries | Spring Boot · JUnit · Mockito · gRPC · REST |
+| Cloud & DevOps | Oracle Cloud Infrastructure · Docker · Terraform · CI / CD |
+| Databases & Messaging | MySQL · Cassandra · Kafka |
+| Tooling | Git · Grafana · Automation |
+
+## 🎓 Education & Publications
+• B.Tech in Computer Science & Engineering, NIT Rourkela (GPA 9.23 / 10)  
+• IEEE publication — Federated Learning Based Parking Space Estimation (Nov 2023)
+
+## ✨ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sushanta1307&show_icons=true&theme=algolia" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sushanta1307&theme=algolia" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushanta1307&layout=compact&theme=algolia&langs_count=8" />
+</p>
+
+## 🔬 Selected Projects
+| Project | Summary | Tech Stack |
+| :------ | :------ | :--------- |
+| HiScoreHub | Online Leaderboard (In Progress) | C++ · Java · Kafka · mySQL · Cassandra · REST · gRPC · Docker |
+<!-- | Block Volume Management Plugin | Enhanced error handling, logging and timeouts boosting response time by 40 % | C++ |
+| Block Storage CLI | Automated DevOps actions for 500 +  tenants | Go · OCI SDK | -->
+
+## 📫 Connect with Me
+• LinkedIn  →  [https://www.linkedin.com/in/sushanta1307](https://www.linkedin.com/in/sushanta-senapati/)  
+• Email     →  ssushanta.senapati@gmail.com  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:a5b4fc&height=120&section=footer"/>
+</p>
