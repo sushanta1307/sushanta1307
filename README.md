@@ -7,7 +7,7 @@
 </div>
 
 ## 🚀 Profile Snapshot
-• Software Developer with 2.5+  years of experience delivering scalable storage and observability solutions within Oracle Cloud Infrastructure  
+• Software Developer with 3  years of experience delivering scalable storage and observability solutions within Oracle Cloud Infrastructure  
 • Proficient in C++, Java (Spring Boot), Go and Python with solid grounding in system design, multithreading and data structures  
 • Passionate about performance tuning, metrics-driven monitoring and building resilient cloud services
 
