@@ -32,8 +32,10 @@
 
 ## ✨ GitHub Stats
 
-![Sushanta's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sushanta1307&show_icons=true&theme=dark)
-![Sushanta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushanta1307&theme=dark)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sushanta1307&show_icons=true&theme=radial" alt="Sushanta's GitHub Stats" />
+  <img src="https://nice-readme.vercel.app/streak-stats?user=sushanta1307&theme=radial" alt="Sushanta's Streak" />
+</p>
 
 ## 🔬 Selected Projects
 | Project | Summary | Tech Stack |
