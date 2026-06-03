@@ -31,12 +31,10 @@
 • IEEE publication — Federated Learning Based Parking Space Estimation (Nov 2023)
 
 ## ✨ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushanta1307&show_icons=true&theme=algolia" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sushanta1307&theme=algolia" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushanta1307&layout=compact&theme=algolia&langs_count=8" />
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sushanta1307&show_icons=true&theme=radial" alt="Sushanta's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushanta1307&layout=compact&theme=radial" alt="Top Languages" />
 </p>
 
 ## 🔬 Selected Projects
