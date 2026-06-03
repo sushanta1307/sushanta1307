@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Hi, I'm Sushanta! 👋</h1>
-  <p>Member of Technical Staff · Oracle Cloud Infrastructure</p>
+  <p>Member of Technical Staff · Salesforce</p>
   <p>Backend Development · Distributed Systems</p>
 </div>
 
@@ -32,10 +32,8 @@
 
 ## ✨ GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushanta1307&show_icons=true&theme=radial" alt="Sushanta's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushanta1307&layout=compact&theme=radial" alt="Top Languages" />
-</p>
+![Sushanta's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sushanta1307&show_icons=true&theme=dark)
+![Sushanta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushanta1307&theme=dark)
 
 ## 🔬 Selected Projects
 | Project | Summary | Tech Stack |
