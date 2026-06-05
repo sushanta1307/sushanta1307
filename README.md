@@ -33,8 +33,7 @@
 ## ✨ GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushanta1307&show_icons=true&theme=radial" alt="Sushanta's GitHub Stats" />
-  <img src="https://nice-readme.vercel.app/streak-stats?user=sushanta1307&theme=radial" alt="Sushanta's Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sushanta1307&show_icons=true&theme=radial" alt="Sushanta's GitHub Stats" />
 </p>
 
 ## 🔬 Selected Projects
